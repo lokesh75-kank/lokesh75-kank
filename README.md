@@ -36,7 +36,7 @@ My name is Lokesh Kank. I am a graduate student at San Diego State University pu
 </p>
 
 ## My GitHub Stats &#128202;
- [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=piabirajdar&show_icons=true&theme=tokyonight)](https://github.com/piabirajdar/github-readme-stats)
+ [![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh75-kank&show_icons=true&theme=tokyonight)](https://github.com/lokesh75-kank/github-readme-stats)
 ##  Connect with me &#129309;
 <p align="left">
 <a href="https://www.linkedin.com/in/lokesh-kank-158534191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshkank" height="30" width="40" /></a>
