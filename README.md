@@ -27,12 +27,12 @@ My name is Lokesh Kank. I am a graduate student at San Diego State University pu
 
 
 ## Languages & Tools &#9989;
-<p align='left'>
+<!-- <p align='left'>
   <img src = '![image](https://user-images.githubusercontent.com/85188079/189241639-a0a397f5-f5ff-422f-9461-6e3a06acbe6b.png)' alt="python" width="auto" height="30"/>
     <img src='![image](https://user-images.githubusercontent.com/85188079/189241731-65272e6a-2a8a-4092-8a81-c8e1c0c066e1.png)' height='30' width='auto' alt="SQL">
    <img src='![image](https://user-images.githubusercontent.com/85188079/189241775-f968cf3f-d515-4528-abc0-29c72791b697.png)' height='30' width='auto' alt="R">
      <img src='![image](https://user-images.githubusercontent.com/85188079/189241866-4ae5a813-2241-402e-b705-2dcdd5cf5470.png)' height='30' width='auto' alt="Pyspark">
-</p>
+</p> -->
 
 ## My GitHub Stats &#128202;
  [![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh75-kank&show_icons=true&theme=tokyonight)](https://github.com/lokesh75-kank/github-readme-stats)
