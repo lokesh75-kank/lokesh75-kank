@@ -27,6 +27,7 @@ My name is Lokesh Kank. I am a graduate student at San Diego State University pu
 
 
 ## Languages & Tools &#9989;
+Python, SQL, R
 <!-- <p align='left'>
   <img src = '![image](https://user-images.githubusercontent.com/85188079/189241639-a0a397f5-f5ff-422f-9461-6e3a06acbe6b.png)' alt="python" width="auto" height="30"/>
     <img src='![image](https://user-images.githubusercontent.com/85188079/189241731-65272e6a-2a8a-4092-8a81-c8e1c0c066e1.png)' height='30' width='auto' alt="SQL">
