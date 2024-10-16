@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I am Lokesh! &#128075;
 
-My name is Lokesh Kank. I am a graduate student at San Diego State University pursuing Master's in Big Data Analytics. Thank you for viewing my github profile.
+My name is Lokesh Kank. I am a Data scientist with 3 years of experience in buiding data solutions. Thank you for viewing my github profile.
 
 <img align="left" width ="48%" src="https://github-readme-stats.vercel.app/api?username=lokesh75-kank"/>
 <img align="left" width ="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh75-kank&layout=compact"/>
