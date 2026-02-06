@@ -24,5 +24,5 @@ My name is Lokesh Kank. I am a AI/ML  Data scientist with 3+ years of experience
 ##  Connect with me &#129309;
 <p align="left">
 <a href="https://www.linkedin.com/in/lokesh-kank-158534191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshkank" height="30" width="40" /></a>
-<a href="https://instagram.com/lokesh_kank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshkank" height="30" width="40" /></a>
+
 
