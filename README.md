@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I am Lokesh! &#128075;
 
-My name is Lokesh. I am a AI/ML Data scientist with 3+ years of experience in buiding solutions. Thank you for viewing my github profile.
+My name is Lokesh. I am AI/ML professional with 3+ years of experience in building AI/ML systems.
 
 ##  Connect with me &#129309;
 <p align="left">
