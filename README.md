@@ -1,3 +1,10 @@
+**My contributions:**
+
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [OpenHands](https://github.com/OpenHands/OpenHands)
+- [DeepEval](https://github.com/confident-ai/deepeval)
+- [LiteLLM](https://github.com/BerriAI/litellm)
+
 # 🌱 Open-source contributions
 
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** (83K★, open-source AI software engineer) — fixed automation cards silently dropping required integrations that can't be installed as MCP servers, with i18n and regression tests · [Issue #16292](https://github.com/OpenHands/OpenHands/issues/16292) → [PR #16324](https://github.com/OpenHands/OpenHands/pull/16324) *(merged)*
